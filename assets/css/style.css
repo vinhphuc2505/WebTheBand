@@ -526,6 +526,10 @@ html{
     display: flex;
 }
 
+.modal.open a{
+    display: flex;
+}
+
 
 @keyframes modalFaceIn {
     from {
